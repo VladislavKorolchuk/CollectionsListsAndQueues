@@ -1,0 +1,5 @@
+interface Diagnostics {
+
+    void passDiagnostics();
+
+}
